@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA3DtDmEGH-HjPzBUUKqfB7_vjSQ9dYCWc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>284938823702</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.uchihaReads</string>
+	<key>PROJECT_ID</key>
+	<string>uchiha-reads-aab17</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uchiha-reads-aab17.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:284938823702:ios:21479ee729b26b8a3bad37</string>
+</dict>
+</plist>

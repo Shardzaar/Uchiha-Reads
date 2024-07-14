@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001057534257",
+    "project_id": "uchihareads",
+    "storage_bucket": "uchihareads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001057534257:android:b9e222922114951d19b010",
+        "android_client_info": {
+          "package_name": "com.example.uchiha_reads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Q6Awi9jUyD-NBBDr04Fkbco3xWSKuQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
